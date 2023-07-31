@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(0, 85, 255);
+}
+header {
+    margin-bottom: 25px;
+}
+.hospital_name{
+    font-family: lucida Sans;
+    color: whitesmoke;
+    font-weight: bold;
+    font-size: 25px;
+    margin-top: 25px;
+    margin-left: 90px;
+    letter-spacing: 5px;
+}
+main {
+    font-weight: bolder;
+    background-color: aliceblue;
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 5%;
+}
+.container {
+    border-radius: 20px;
+}
+.record_top {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+ .record {
+    margin-top: 10px;
+    margin-left: 25px;
+}
+.reset {
+    background-color: red;
+    color: #000;
+    font-weight: bold;
+    float: right;
+    padding: 5px 4px;
+}
+footer {
+    text-align: center;
+    color: #fff;
+    font-weight: bolder;
+    margin-top: 5px;
+}
